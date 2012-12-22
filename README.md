@@ -16,10 +16,10 @@ Insert the following code into the `head`-section of you page:
 Make sure to include this AFTER the jQuery-library.
 
 ###Run plugin###
-Just include the following in your page:
+Just include the following in your page to modify all links within an element:
 
 ```javascript
-$.whereitgoes();
+$("#article").whereitgoes();
 ```
 
 ##Author##
