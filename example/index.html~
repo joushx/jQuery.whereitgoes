@@ -5,8 +5,8 @@
 		<script type="text/javascript" src="../lib/jQuery.whereitgoes.js"></script>
 	</head>
 	<body>
-	<p>Das ist ein <a href='http://google.com'>That's a link</a></p>
-	<div><a href="abc">link #2</a></div>
+	<p>That's a <a href='http://google.com'>link</a>!</p>
+	<div><a href="abc">That's one too!</a></div>
 	<script type="text/javascript">
 		$("p").whereitgoes();
 	</script>
