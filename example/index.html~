@@ -2,12 +2,13 @@
 <html>
 	<head>
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script type="text/javascript" src="../lib/jQuery.whereitgoes.min.js"></script>
+		<script type="text/javascript" src="../lib/jQuery.whereitgoes.js"></script>
 	</head>
 	<body>
-	<p>Das ist ein <a href='http://google.com'>That's a link</a></p>
+	<p>That's a <a href='http://google.com'>link</a>!</p>
+	<div><a href="abc">That's one too!</a></div>
 	<script type="text/javascript">
-		$.whereitgoes();
+		$("p").whereitgoes();
 	</script>
 	</body>
 </html>
