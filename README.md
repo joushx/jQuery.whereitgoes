@@ -7,13 +7,13 @@ When the user hovers a link, the script shows the content of the href-tag.
 ##Usage##
 
 ###Include Plugin###
-Insert the following code into the `head`-section of you page:
+Insert the following code into the `head` section of your page:
 
 ```html
 <script type="text/javascript" src="jQuery.whereitgoes.min.js"></script>
 ```
 
-Make sure to include this AFTER the jQuery-library.
+Make sure to include this AFTER the jQuery-library!
 
 ###Run plugin###
 Just include the following in your page to modify all links within an element:
