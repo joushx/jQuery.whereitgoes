@@ -1,0 +1,33 @@
+{
+	"name": "whereitgoes",
+	"title": "jQuery Whereitgoes",
+	"description": "Lightweight jQuery-plugin for showing users where a link points them to",
+	"keywords": [
+		"link",
+		"whereitgoes"
+	],
+	"version": "0.3.1",
+	"author": {
+		"name": "Johannes Mittendorfer",
+		"url": "http://jmittendorfer.hostingsociety.com"
+	},
+	"maintainers": [
+	        {
+	            "name": "Johannes Mittendorfer",
+				"url": "http://jmittendorfer.hostingsociety.com"
+	        }
+    	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://raw.github.com/joushx/jQuery.whereitgoes/master/LICENSE.txt"
+		}
+	],
+	"demo": "http://demo.jmittendorfer.hostingsociety.com/jquery-whereitgoes",
+	"bugs": "https://github.com/joushx/jQuery.whereitgoes/issues",
+	"homepage": "https://github.com/joushx/jQuery.whereitgoes",
+	"docs": "https://github.com/joushx/jQuery.whereitgoes",
+	"dependencies": {
+		"jquery": ">=1.5"
+	}
+}
